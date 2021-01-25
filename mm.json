@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Wallsplash 1",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-10-31.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-10-31.jpg",
+		"dimensions": "640x640",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Wallsplash 2",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-10-34.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-10-34.jpg",
+		"dimensions": "640x640",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Wallsplash 3",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-23.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-23.jpg",
+		"dimensions": "1280x1118",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wallsplash 4",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-12-03.jpg",
+		"thumbnail": "hhttps://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-12-03.jpg",
+		"dimensions": "1075x1280",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wallsplash 5",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-44.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-44.jpg",
+		"dimensions": "618x618",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wallsplash 6",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-53.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-53.jpg",
+		"dimensions": "1280x1209",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wallsplash 7",
+		"author": "Maitreya",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-59.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/photo_2021-01-25_18-11-59.jpg",
+		"dimensions": "500x733",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	}
+]
