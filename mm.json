@@ -65,9 +65,9 @@
 	{
 		"name": "Wallsplash 8",
 		"author": "Maitreya",
-		"url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F21%2Fhine-2000.jpg",
-		"thumbnail": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F21%2Fhine-2000.jpg",
-		"dimensions": "2000x1333",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/rickroll.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/rickroll.jpg",
+		"dimensions": "1200x676",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people,city"
 	}
