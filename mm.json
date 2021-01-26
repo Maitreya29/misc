@@ -62,5 +62,14 @@
 		"dimensions": "500x733",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people"
+	},
+        {
+		"name": "Wallsplash 8",
+		"author": "Maitreya",
+		"url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F21%2Fhine-2000.jpg",
+		"thumbnail": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F21%2Fhine-2000.jpg",
+		"dimensions": "2000x1333",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city",
 	}
 ]
