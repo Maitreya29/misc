@@ -70,5 +70,14 @@
 		"dimensions": "1200x676",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Bosh",
+		"author": "Bowner",
+		"url": "https://raw.githubusercontent.com/Maitreya29/misc/main/IMG_20210127_102228_783.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Maitreya29/misc/main/IMG_20210127_102228_783.jpg",
+		"dimensions": "540x540",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
 	}
 ]
